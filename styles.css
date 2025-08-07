@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .container {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  #quoteDisplay {
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+    padding: 1rem;
+  }
+  .mood‑happy { background-color: #fffae6; }
+  .mood‑sad { background-color: #e6f0ff; }
+  .mood‑stressed { background-color: #ffe6e6; }
+  .mood‑excited { background-color: #e6ffe6; }
+  
